@@ -2,7 +2,7 @@
 
 Testcase steps:- 1) open the bonatara Application
                  2) The Food Log section can be found by tapping on the "Food" tab at the bottom of the screen.
-                 3) The "+" button can be found in the top right corner of the food log page.
+                 3) The "+" button can be found in the bottom right corner of the food log page.
                  4) The option to add food can be found by tapping on the "Add Food" button.
                  5) The search bar can be found at the top of the food log page.
                  6) The desired food can be chosen from the search results by tapping on its name.
